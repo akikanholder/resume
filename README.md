@@ -622,4 +622,4 @@ WPF、Cocos2d-x
 
 ### 執筆歴
 
-- [Qiita]（https://qiita.com/akikanholder）
+- [Qiita](https://qiita.com/akikanholder)
