@@ -1,8 +1,5 @@
 # 職務経歴書
 
-<div style="text-align: right;">氏名：高田 新</div>
-<div style="text-align: right;">2025年06月27日 現在</div>
-
 ## スキル
 
 ### 言語
